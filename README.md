@@ -8,7 +8,7 @@ Every shot comes from a real match: the shooting position and the point where th
 
 The whole game is a single HTML file. It needs no installation, no build step and no server code, and it plays on phones, tablets and computers.
 
-**Play it here:** `https://deminalexeys.github.io/Goalkeeper-simulator/`
+**Play it here:** `https://CYFRON-SOFTWARE-TRADING.github.io/Goalkeeper-simulator/`
 
 Languages: English, French, Russian.
 
